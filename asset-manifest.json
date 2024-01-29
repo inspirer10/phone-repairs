@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phone-repairs/static/css/main.daee5c29.css",
+    "main.js": "/phone-repairs/static/js/main.a0bc76de.js",
+    "index.html": "/phone-repairs/index.html",
+    "main.daee5c29.css.map": "/phone-repairs/static/css/main.daee5c29.css.map",
+    "main.a0bc76de.js.map": "/phone-repairs/static/js/main.a0bc76de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daee5c29.css",
+    "static/js/main.a0bc76de.js"
+  ]
+}
